@@ -1,0 +1,16 @@
+.speaker-talks {
+    padding: 20px;
+    background-color: #f0f0f0; /* Fondo claro para el área de videos */
+    text-align: center; /* Centrar los títulos y los videos */
+  }
+  
+  .video {
+    margin: 20px 0; /* Margen entre videos */
+  }
+  
+  iframe {
+    width: 560px; /* Ancho del video */
+    height: 315px; /* Altura del video */
+    margin: 10px 0; /* Margen vertical para el iframe */
+  }
+  

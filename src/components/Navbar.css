@@ -1,0 +1,33 @@
+/* Navbar.css */
+.navbar {
+    position: fixed; /* Fija la navbar en la parte superior de la pantalla */
+    top: 0; /* Alinea la navbar en la parte superior */
+    left: 0; /* Alinea la navbar al lado izquierdo */
+    width: 100%; /* Asegura que la navbar se extienda a lo ancho de la pantalla */
+    background-color: #333; /* Color de fondo de la barra de navegación */
+    color: white;
+    z-index: 1000; /* Asegura que la navbar siempre esté en la parte superior de otros contenidos */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Opcional: añade sombra para mejor visibilidad sobre el contenido */
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 10px 0; /* Ajusta el padding según necesidades */
+  }
+  
+  .nav-links li {
+    padding: 10px;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  

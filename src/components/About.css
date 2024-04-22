@@ -1,0 +1,19 @@
+.about {
+    padding: 20px; /* Espacio alrededor del contenido */
+    background-color: #f4f4f4; /* Color de fondo suave */
+    margin: 20px; /* Margen alrededor del componente */
+  }
+  
+  h2 {
+    color: #333; /* Color del título */
+    text-align: center; /* Centrar el título */
+  }
+  
+  p {
+    color: #666; /* Color del texto */
+    font-size: 1rem; /* Tamaño del texto */
+    line-height: 1.5; /* Espaciado entre líneas */
+    margin-top: 10px; /* Espacio entre párrafos */
+    text-align: justify; /* Justificar el texto */
+  }
+  

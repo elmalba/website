@@ -1,0 +1,23 @@
+.header {
+    background-image: url('../pics/yo.jpg'); 
+    background-size: cover; /* Asegura que la imagen cubra todo el encabezado */
+    background-position: top; /* Centra la imagen en el encabezado */
+    color: white; /* Color del texto */
+    height: 400px; /* Altura del encabezado */
+    display: flex; /* Utiliza flexbox para alinear el contenido */
+    flex-direction: column; /* Alinea los elementos verticalmente */
+    align-items: center; /* Centra los elementos horizontalmente */
+    justify-content: center; /* Centra los elementos verticalmente */
+    text-align: center; /* Alinea el texto al centro */
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2.5rem; /* Tamaño del nombre */
+  }
+  
+  p {
+    font-size: 1.2rem; /* Tamaño del eslogan o introducción */
+    margin-top: 10px; /* Espacio entre el nombre y el eslogan */
+  }
+  

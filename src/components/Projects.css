@@ -1,0 +1,26 @@
+.projects {
+    padding: 20px;
+    background-color: #fff; /* Color de fondo blanco */
+    text-align: center; /* Centrar el texto */
+  }
+  
+  .project {
+    margin: 20px; /* Margen alrededor de cada proyecto */
+    border: 1px solid #ccc; /* Borde alrededor de cada proyecto */
+    padding: 10px; /* Espacio interno alrededor del contenido de cada proyecto */
+  }
+  
+  .project img {
+    width: 50%; /* Ancho completo para que la imagen se ajuste al contenedor */
+    object-fit: cover; /* Asegura que la imagen cubra el área sin deformarse */
+  }
+  
+  h3 {
+    color: #333; /* Color del título del proyecto */
+  }
+  
+  p {
+    color: #666; /* Color del texto descriptivo */
+    font-size: 0.9rem; /* Tamaño del texto */
+  }
+  

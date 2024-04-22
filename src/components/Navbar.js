@@ -9,7 +9,7 @@ function Navbar() {
       };
       
   return (
-    <nav id="home" className="navbar">
+    <nav className="navbar">
       <ul className="nav-links">
         <li><a href="#home" onClick={() => scrollTo('home')}>Inicio</a></li>
         <li><a href="#about" onClick={() => scrollTo('about')}>Sobre mí</a></li>

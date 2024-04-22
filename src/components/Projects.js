@@ -13,7 +13,7 @@ function Projects() {
     {
       id: 2,
       title: "Salas facultad de Ingenieria",
-      description: "Este pequeño portal resuelve la problematica diaria de los estudiantes de la facultad de ingenieria de la universidad diego portals, donde pueden ver la salas por sus asignaturas y horarios, actualmente se encuentra next js",
+      description: "Este portal resuelve la problematica diaria de los estudiantes de la facultad de ingenieria de la universidad diego portales, donde pueden ver la salas por sus asignaturas o profesor con sus respectivos horarios, actualmente se encuentra next js",
       image: "/pics/salas.png",
       url: "https://salas.docencia-eit.cl"
     },

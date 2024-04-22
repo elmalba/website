@@ -45,8 +45,8 @@ function Projects() {
       <h2>Mis Proyectos</h2>
       {projects.map(project => (
         <div key={project.id} className="project">
-         <a href={project.url}> <img src={project.image} alt={project.title} /> </a>
           <h3>{project.title}</h3>
+         <a href={project.url}> <img src={project.image} alt={project.title} /> </a>
           <p>{project.description}</p>
         </div>
       ))}

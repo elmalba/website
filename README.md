@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Mi pequeña website
 
-Este es un proyecto de JavaScript que incluye un componente llamado `Mi Wevsite`.
+Este es un proyecto de JavaScript que incluye un componente llamado `Mi Website`.
 
 ## Comenzando
 
